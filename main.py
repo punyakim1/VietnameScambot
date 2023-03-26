@@ -31,7 +31,9 @@ app = pyrogram.Client(
 # START YA INI JINK !
 
 START_MESSAGE = """ Hello Welcome To women's automatic ordering system
+―――――――――――――――――――
 Order women now or see a list of women who are currently open
+―――――――――――――――――――
 
 Please press : Click on the Link Below ⤦
 
